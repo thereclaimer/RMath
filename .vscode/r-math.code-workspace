@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..",
+			"name": "RMath"
+		},
+		{
+			"path": "../modules/r-common",
+			"name": "RCommon"
+		},
+	],
+	"settings": {}
+}
